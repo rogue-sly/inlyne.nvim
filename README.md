@@ -20,7 +20,7 @@ Install the plugin with your package manager of choice
 
 ```lua
 {
-    "rogue-87/inlyne.nvim",
+    "rogue-sly/inlyne.nvim",
     -- some optional keymaps
     --[[ keys = {
         { "<leader>ie", "<cmd>Inlyne enable<cr>", desc = "Enable Inlyne" },
